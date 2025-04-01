@@ -119,16 +119,16 @@ This repository contains the configuration and setup for the AWS Networking proj
 - Here are the key screenshots showing the steps:
 
 - **Screenshot 1**: VPC Setup Dashboard
-  ![VPC Setup Screenshot]()
+  ![VPC Setup Screenshot](https://raw.githubusercontent.com/OrireB/aws-networking/3cef0a2ae108930d9b6bc584f64797e38a58b2b4/Screenshot%20(88).png)
   
-- **Screenshot 2**: VPC Setup Dashboard
-  ![NAT Gateway Setup Screenshot]()
+- **Screenshot 2**: NAT Gateway
+  ![NAT Gateway Setup Screenshot](https://raw.githubusercontent.com/OrireB/aws-networking/3e2e23633de5cbccb0d82a12493a26715cf757bb/Screenshot%20(89).png)
 
-- **Screenshot 1**: VPC Setup Dashboard
-  ![Security Group Setup Screenshot]()
+- **Screenshot 1**: Security Group
+  ![Security Group Setup Screenshot](https://raw.githubusercontent.com/OrireB/aws-networking/2b16f9e718367e510445534f1ba03811cc804b13/Screenshot%20(90).png)
 
-- **Screenshot 1**: VPC Setup Dashboard
-  ![NACL Setup Screenshot]()
+- **Screenshot 1**: NACL
+  ![NACL Setup Screenshot](https://raw.githubusercontent.com/OrireB/aws-networking/9e3ed322858e38a6d6e736f1bc9aa90dd52876d0/Screenshot%20(91).png)
 
 ---
 
