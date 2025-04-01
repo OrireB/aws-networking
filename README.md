@@ -19,13 +19,13 @@ This repository contains the configuration and setup for the AWS Networking proj
    - Navigate to Subnets under your VPC dashboard.
    - Click on Create Subnet.
    - Create at least two subnets in different availability zones:
-     - **Subnet 1**
+   - **Subnet 1**
      - **Name**: MyPublicSubnet-test
      - **VPC**: MyVPC-test
      - **Availability Zone**: Choose one availability zone (e.g., us-east-1a)
      - **IPv4 CIDR Block**: 10.0.1.0/24
 
-     - **Subnet 2**
+   - **Subnet 2**
      - **Name**: MyPrivateSubnet-test
      - **VPC**: MyVPC-test
      - **Availability Zone**: Choose one availability zone (e.g., us-east-1b)
